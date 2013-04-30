@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"Emmet",
+		"GitGutter",
+		"Jade",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PlainTasks",
+		"Sass",
+		"SideBarEnhancements",
+		"sublime-closure-linter",
+		"SublimeLinter",
+		"TrailingSpaces",
+		"TypeScript",
+		"Web Inspector",
+		"WordCount"
+	]
+}
