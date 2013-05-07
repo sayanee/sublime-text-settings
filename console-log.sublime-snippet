@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-console.log( ${1:this} );
+console.log(${1:this});
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>cl</tabTrigger>

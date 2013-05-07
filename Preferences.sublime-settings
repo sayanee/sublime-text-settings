@@ -14,19 +14,27 @@
 		".sass-cache"
 	],
 	"font_face": "Monaco",
-	"font_size": 18.0,
+	"font_size": 17.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages": ["Vintage"],
+	"ignored_packages":
+	[
+		"SublimeLinter",
+		"Vintage"
+	],
 	"line_padding_bottom": 3,
 	"new_window_settings":
-  {
-    "show_minimap": false
-  },
-  "open_files_in_new_window": false,
-  "overlay_scroll_bars": "enabled",
+	{
+		"show_minimap": false
+	},
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
 	"remember_open_files": false,
-	"rulers": [80, 120 ],
+	"rulers":
+	[
+		80,
+		120
+	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
 	"show_full_path": true,

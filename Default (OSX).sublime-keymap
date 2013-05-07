@@ -1,5 +1,7 @@
 [
   { "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
   { "keys": ["ctrl+i"], "command": "reindent"},
-  { "keys": ["super+v"], "command": "paste_and_indent" }
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["shift+super+o"], "command": "side_bar_open_in_browser" , "args":{"paths":[], "type":"testing"} },
+  { "keys": ["shift+super+o"], "command": "side_bar_open_in_browser", "args":{"paths":[], "type":"production"} }
 ]
