@@ -1,0 +1,7 @@
+{
+  "javascript_linter": "jshint",
+  "csslint_options":
+  {
+    "box-sizing": false
+  }
+}

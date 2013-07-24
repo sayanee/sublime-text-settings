@@ -1,0 +1,9 @@
+{
+  "snippets": {
+    "html": {
+     "abbreviations": {
+       "hex": "ol>li*6"
+     }
+    }
+  }
+}
