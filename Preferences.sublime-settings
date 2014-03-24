@@ -4,7 +4,7 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 4,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/Solarized (Light) (SL).tmTheme",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"ensure_newline_at_eof_on_save": true,
@@ -17,7 +17,7 @@
 		".sass-cache"
 	],
 	"font_face": "Monaco",
-	"font_size": 23,
+	"font_size": 20,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
